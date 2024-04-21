@@ -1,0 +1,156 @@
+* What dad wants on his computer
+
+- vivaldi
+- vieb
+- tor
+- edge
+- davinci
+- gimp
+- kitty
+- i3
+- vim
+- sioyek
+- mpv
+- libreoffice
+- ark
+- ublock origin
+- yt-dlp
+- obs
+
+** Software
+
+- Wallpaper
+- Wofi
+- Notification daemon
+- Waybar
+- idle/lockscreen
+
+* Customization
+- https://www.reddit.com/r/unixporn/comments/129jue6/bspwm_my_first_rice/
+- https://www.reddit.com/r/unixporn/comments/12315m9/hyprland_updating_dotfiles_again/
+- https://www.reddit.com/r/unixporn/comments/11vgb4r/hyprland_cyberpunk_edgerunners_minimal_rice/
+- https://www.reddit.com/r/unixporn/comments/zg4ov0/gnome_gruvbox_for_my_first_rice/
+- https://www.reddit.com/r/unixporn/comments/1alz6ue/hyprland_simple_compact_logout_dashboard/
+- https://www.reddit.com/r/emacs/comments/nzfjye/snazzygruvbox/
+- https://www.reddit.com/r/unixporn/comments/13dm9g0/qtile_cozytile_a_cozy_qtile_rice/
+- https://www.reddit.com/r/unixporn/comments/121khqv/qtile_my_new_arch_rice/s
+
+  L2037.6.08.01.00
+* Colleges
+** College: Berklee college of music
+Location: New York City, Boston
+
+AP: Accepted
+ACT/SAT: Not required
+Acceptance: 54.2%
+
+Rank: 4th
+Annual cost: $45,467
+Avg gpa: 3.0
+
+Application deadline: Jan 15
+______________________________
+
+** College: Juliard college of music
+Location: Ney York
+
+AP: Who knows
+ACT/SAT: Not required
+Acceptance: 7%
+
+Rank: 1st?
+Annual cost: $56,550
+Avg gpa: 3.0
+
+Application deadline: Dec 1
+____________________________
+
+** College: Curtis institute of music
+Location: Pennsylvania
+
+AP: Yes
+ACT/SAT: Optional
+Acceptance: 2-7%
+
+Rank: 2nd?
+Annual cost: $6,000?
+Avg gpa: 3.15
+
+Application deadline: December 15
+____________________________
+
+** College: University of Michigan Ann Arbor
+Location: Ann Arbor
+
+AP: Yes
+ACT/SAT: Not required
+Acceptance: 18%
+
+Rank: 16th
+Annual cost: $19,205
+Avg gpa: 3.9
+
+Application deadline: Dec 1
+______________________________
+
+** College: Northwestern university
+Location: Illinois
+
+AP: Towards a Bachelor degree
+ACT/SAT: Not required
+Acceptance: 7%
+
+Rank: 2nd?
+Annual cost: $28,230
+Avg gpa: 4.09
+
+Application deadline: Jan 2
+______________________________
+
+** College: St. Olaf
+Location: Minnesota
+
+AP: Yes
+ACT/SAT: 30
+Acceptance: 56.4%
+
+Rank: 41st
+Annual cost: $56,970
+Avg gpa: 3.72
+
+Application deadline: Nov 1
+** College: Michigan State University
+Location: Michigan
+AP: Yes
+ACT/SAT: 27
+Acceptance: 81%
+Rank:
+Annual cost:
+Avg gpa:
+
+** College:
+Location:
+AP:
+ACT/SAT:
+Acceptance:
+Rank:
+Annual cost:
+Avg gpa:
+
+** College:
+Location:
+AP:
+ACT/SAT:
+Acceptance:
+Rank:
+Annual cost:
+Avg gpa:
+
+** College:
+Location:
+AP:
+ACT/SAT:
+Acceptance:
+Rank:
+Annual cost:
+Avg gpa:

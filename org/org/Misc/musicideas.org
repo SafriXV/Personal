@@ -1,0 +1,11 @@
+* cool walk down from V --> i in harmonic minor key
+
+==take the fifth chord in a harmonic minor key, arpegiate it and then walk down from the 4th to the 1 and then restart the progression==
+
+*Scale degrees*
+5 - 7 - 2 (V) - 4 - 3 - 2 - 1 (i)
+
+sounds also cool
+5 - 7 - 2 - 4 (V7) [played in an octave]
+4 - 3 - 2 - 1 (I)  [played double octave]
+

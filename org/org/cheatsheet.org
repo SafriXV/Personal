@@ -1,0 +1,166 @@
+* TUI
+** Tomato.c ~Pomodoro Timer~
+** Spt ~Spotify Client~
+** Ranger ~File Manager~
+*** Tab navigation
+
+- (gn) new tab made at ~/
+- (tab) navigate tabs
+- (q) quit tab
+- ({x}j/k) move {x} lines down/up
+- (g) quick go to
+
+*** File navigation
+
+- (ya) copy add to buffer [can copy from multiple buffers]
+- (yr) same thing but the opposite
+
+- (yG) copy from selected to the bottom of list
+- (ygg) same thing but to the top
+
+- (ud) deletes copy buffer
+- (yp) copy directory and name
+- (r) open file with program
+- (r1) unpack archived file
+
+*** Marking
+
+- (SPC) mark file
+- (v) "invert selected" if there isn't nothing selected it selects all
+
+** Nyaa ~Anime Downloader~
+** Bluetuith ~Bluetooth Manager~
+** youtube-tui ~Youtube Client~
+** Emacs ~Text Editor~
+* General
+** Watson  ~Time Tracker~
+** yt-dlp ~Youtube Downloader~
+
+- To download
+
+* Vim / Emacs bindings
+** Org mode
+*** Commands
+- org-insert-todo-heading (M-S-RET)
+- org-cut-subtree (C-c C-x C-w)
+- org-copy-subtree (C-c C-x M-w)
+- org-paste-subtree (C-c C-x C-y)
+- org-toggle-heading (C-c *)
+** Evil bindings
+*** Insert mode tricks
+a - enters insert mode ahead of the cursor
+o - enters insert mode on a new line
+*** Emphasis
+
+#hello world
+# asldfjad
+: hello world
+*hello world*
+/hello world/
+_hello world_
++hello world+
+*** Replace with
+
+:[range]s/[replace]/[replace with]
+:5,6s/down/mpv
+;; Replaces all instances of "down" with "mpv" that occur from lines 5-6
+:%s/down/mpv
+;; Replaces all instances of "down" with "mpv" that occur in the entire file
+
+/c at the end makes emacs ask to confirm emach replacement
+
+*** Page navigation
+
+ctrl + d - move down 1/2 screen
+ctrl + u - move up 1/2 screen
+ctrl + f - move down 1 screen
+ctrl + b - move up 1 screen
+
+G  - End of a file (#G works the same way as #gg @hk )
+gg - Beginning of a file
+0  - Beginning of a line
+
+*** Text navigation
+
+u  - Undo
+.  - Redo (but at /current/ cursor)
+p  - Paste
+r  - Replace with the next pressed character
+~  - Changes the case of a letter
+dw - Deletes word (but only past the cursor)
+[#]<</>> In/outedents a file to # lines
+
+*** Line navigation
+
+D  - Cuts off a line, deleting everything past the cursor
+C  - Does the same thing as 'D' but puts you in insert mode
+dd - Delete line
+cc - Change line (deletes and puts you in insert mode)
+yy - Copies line
+
+*** w s and l
+
+[x]w - executes command on a word
+[x]s - executes command on a sentence
+[x]l - executes command on a character
+
+dw - deletes one word
+ds - deletes a sentence
+dl - deletes one character
+
+There's also d[i]w which I believe deletes the word irregardless of cursor position?
+And d[a]w which I also don't understand
+
+da[ - deletes a set of brackets with the text in the them
+ci" - Brings you to insert mode in the nearest set of "" on that line
+
+Words are seperated by spaces on both sides
+Sentences are seperated by periods /or/ line breaks
+
+*** Marks
+**** Lowercase marks (within a file)
+
+m[x] - sets a mark at location with identifier [x]
+`[x] - goes to mark with identifer [x]
+'[x] - goes to /line/ of mark with identifier [x]
+'.   - jumps to previous mark
+
+**** Uppercase marks (within any file)
+*** Commands in insert mode
+
+ctrl t - indents current line
+ctrl d - outdents current line
+
+*** Visual mode
+
+ v      - Character wise
+ V      - Line wise
+ ctrl v - Block wise
+
+*** Playing with operators
+
+[#]i [thing]<enter><esc> will insert [thing] to the next [#] lines
+
+*** Registers
+
+You call registers with "[x][command] where x is an identifier
+
+**** Examples
+
+"adw |Cat dog frog - Stores "cat" to the a register (as opposed to default unamed register)
+
+These registers are called upon the same whether you're adding to or using a register
+"ap  - Pastes whatever is in register a, in this case "cat"
+
+"_ is called the "black hole register" and can't be drawn from
+
+**** Register cheat sheet
+
+""   - Unamed register
+"_   - Black hole register
+"\   - Last pattern register
+"-   - Small delete register (the last cut/copy that was less than an entire line long)
+"1   - Big delete register (the last cut/copy that was 1 or more lines)
+
+*** Navigating buffers
+C-[direction] focus buffer [direction]

@@ -1,0 +1,90 @@
+#+title: Agenda
+* Music
+** ;; Repertoire
+*** PROJ Ney Rosauro
+*** PROJ Michi
+** ;; Technique
+*** TODO Learn how to play a Moeller stroke
+*** TODO Learn how to single hand roll
+*** TODO Make my octaves not suck
+*** TODO Improve run speed
+*** TODO Stabilize double verticals
+** ;; From reading the book on practice
+*** TODO Start practicing music right in the morning
+*** TODO Create a cue, routine and reward process with music.
+*** TODO Try playing blindfolded
+*** TODO Record my playing
+
+1. Listen
+2. Record areas of improvement
+3. Deliberate practice
+4. Record
+5. Repeat
+
+   # Try isolating your visual and aural tracks to increase directed focus
+
+*** TODO Learn why he keeps writing BMP
+*** TODO Start warming up with Cmin and Cmaj and keep track of times to get a "world record"
+* Japanese
+** ;; Make Immersions tracker
+*** TODO Make the totals aggregate
+*** TODO Automate data collection
+*** TODO Make every sunday automatically show up as nothing
+** ;; Grammar stuffs
+*** TODO Learn how to use も in regards to "as long as"
+*** TODO Learn how to use "そう" and "みたい"
+*** TODO Learn how to use 大体
+*** TODO Learn at least the basics of sonkeigo
+** ;; Tools
+*** TODO Look into Tatsumoto's "Trackma"
+*** TODO Get offline dictionary on arch
+*** TODO Look into the shana project for automated anime downloading
+**** TODO Setup deluge with the YaRSS2 plugin
+* School
+* Personal
+** Priority
+**** TODO Learn how to use qutebrowser
+** Long term
+*** Emacs
+**** TODO Read "Mastering emacs"
+**** TODO Make emacs open org files with subtrees collapsed
+**** TODO Make setting as done clear a task
+**** TODO Make an organized class agenda
+*** Coding
+**** ;; UNIX/Linux
+***** TODO Learn basic bash scripting
+***** TODO set yazi default openers, particularly for image files as they're opening in emacs right now
+***** TODO Create auto time tracking (likely wont get to)
+**** ;; SOFTWARE
+** Tech stuff
+**** TODO Make priority audio channels so I can stop being loud in public
+**** TODO Make audiobooks and ebooks sync
+**** TODO Make a i3wm or KDE setup just so I have an xorg emmergency setup
+**** TODO Make my fingerprint sensor work
+**** ;; SOFTWARE
+***** TODO Find a lightweight audio recorder
+***** TODO Get CLI English and Japanese dictionary
+***** TODO Setup font-previewer in the terminal
+https://github.com/sdushantha/fontpreview
+***** TODO Look into epub readers
+***** TODO figure out how to use youtube-tui
+***** TODO Look into Tmux because it useful
+**** ;; Customization
+***** TODO Make Discord transparent
+**** ;; Coding
+***** Finish my pomocycle script [/]
+[ ] Make it so I can type "pomocycle #" and it brings me to that spot in the loop (without stopping the loop)
+[ ] Output the history to a spreadsheet
+[ ] Sync it with the leo bot and a discord.py bot (maybe with wlrctl to automate)
+[ ] Make / control a bot from the terminal with discord.py-console
+
+
+* TODO Replace my hyprland terminal keybindings with a shell script
+* Sunday
+**** TODO Root my Hisense A9 so syncthing works
+**** TODO Setup mu4e
+**** TODO Learn sway talisman as terminal application launcher
+**** TODO Setup vibre office
+**** TODO Setup flexget cause transmission-rss doesn't seem to be working
+**** TODO Run newsboat as a cronjob
+**** TODO Look into how to use cronjobs
